@@ -1,1 +1,12 @@
-{"Token":"6135549214:AAGLw-ay_Q7B6Iyf9ULImt7sqCVW29geFMU","MaxOfflineTime":"00:00:10","UpdateTime":"00:00:01","AdminId":1419158298,"ChanelId":-1001952600660}
+{
+  "Token": "6209218908:AAHbx4_PPG009CGbG9h-3Cj2WFfKThDV0CY",
+  "FirstLongVideoRuntime": "00:02:00",
+  "FirstShortVideoRuntime": "00:01:00",
+  "SecondLongVideoRuntime": "00:00:30",
+  "SecondShortVideoRuntime": "00:00:20",
+  "UpdateTime": "00:00:01",
+  "SwitchTime": "2023-05-06T23:23:37.2358632+05:00",
+  "AdminId": 1419158298,
+  "ChanelId": -1001802781449,
+  "IsSwitchedToNewFormat": "false"
+}

@@ -1,12 +1,12 @@
 {
-  "Token": "6209218908:AAHbx4_PPG009CGbG9h-3Cj2WFfKThDV0CY",
-  "FirstLongVideoRuntime": "00:02:00",
-  "FirstShortVideoRuntime": "00:01:00",
-  "SecondLongVideoRuntime": "00:00:30",
-  "SecondShortVideoRuntime": "00:00:20",
+  "Token": "5668557914:AAHsdq87Xg2JiRzC0ke3cKAK49SEem6eThU",
+  "FirstLongVideoRuntime": "03:00:00:00",
+  "FirstShortVideoRuntime": "03:00:00:00",
+  "SecondLongVideoRuntime": "02:00:00:00",
+  "SecondShortVideoRuntime": "02:00:00:00",
   "UpdateTime": "00:00:01",
-  "SwitchTime": "2023-05-06T23:23:37.2358632+05:00",
-  "AdminId": 1419158298,
-  "ChanelId": -1001802781449,
+  "SwitchTime": "2023-06-05T00:00:01.2358632+00:00",
+  "AdminId": 206829116,
+  "ChanelId": -1001906488451,
   "IsSwitchedToNewFormat": "false"
 }

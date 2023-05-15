@@ -1,9 +1,9 @@
 {
   "Token": "5668557914:AAHsdq87Xg2JiRzC0ke3cKAK49SEem6eThU",
-  "FirstLongVideoRuntime": "03:00:00:00",
-  "FirstShortVideoRuntime": "03:00:00:00",
-  "SecondLongVideoRuntime": "02:00:00:00",
-  "SecondShortVideoRuntime": "02:00:00:00",
+  "FirstLongVideoRuntime": "02:00:00:00",
+  "FirstShortVideoRuntime": "02:00:00:00",
+  "SecondLongVideoRuntime": "01:00:00:00",
+  "SecondShortVideoRuntime": "01:00:00:00",
   "UpdateTime": "00:00:01",
   "SwitchTime": "2023-06-05T00:00:01.2358632+00:00",
   "AdminId": 206829116,

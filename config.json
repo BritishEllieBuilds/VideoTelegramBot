@@ -1,11 +1,9 @@
 {
   "Token": "5668557914:AAHsdq87Xg2JiRzC0ke3cKAK49SEem6eThU",
-  "FirstLongVideoRuntime": "02:00:00:00",
-  "FirstShortVideoRuntime": "02:00:00:00",
-  "SecondLongVideoRuntime": "01:00:00:00",
-  "SecondShortVideoRuntime": "01:00:00:00",
-  "UpdateTime": "00:00:01",
+  "AwaitNewVideoDays": 3,
   "SwitchTime": "2023-06-05T00:00:01.2358632+00:00",
+  "FirstPhotoName": "firstPhoto.png",
+  "SecondPhotoName": "secondPhoto.png",
   "AdminId": 206829116,
   "ChanelId": -1001906488451,
   "IsSwitchedToNewFormat": "false"
